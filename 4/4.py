@@ -108,8 +108,8 @@ def main():
 	# data = read_file("test.txt")
 	data = read_file("input.txt")
 
-	print(count_xmas(data)) ## First star
-	print(count_x_mas(data)) ## Second star
+	print(count_xmas(data)) # First star
+	print(count_x_mas(data)) # Second star
 
 
 if __name__ == "__main__":
