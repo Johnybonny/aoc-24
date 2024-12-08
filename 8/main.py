@@ -1,5 +1,3 @@
-from collections import Counter
-
 def read_file(filename):
 	map = []
 	with open(filename, "r") as file:
